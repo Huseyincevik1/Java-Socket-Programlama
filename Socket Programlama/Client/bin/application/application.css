@@ -1,0 +1,5 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.leftAnchoner{
+	
+	-fx-background-color: linear-gradient(to bottom right, #DEF5E5,#BCEAD5,#9ED5C5,#8EC3B0);
+}
